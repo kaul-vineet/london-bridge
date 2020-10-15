@@ -1,4 +1,4 @@
-## kafka-message-waterfall
+## london-bridge
 
 A simple app that streams Kafka messages down a web page.
 
